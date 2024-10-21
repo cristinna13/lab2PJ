@@ -1,0 +1,4 @@
+do re * | Cuvinte: 2 | Vocale: 2
+la la la | Cuvinte: 3 | Vocale: 3
+mi sol do | Cuvinte: 3 | Vocale: 3
+do mi fa sol re * | Cuvinte: 5 | Vocale: 5
